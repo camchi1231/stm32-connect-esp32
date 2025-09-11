@@ -1,1 +1,1 @@
-# stm32-connect-esp32
+# STM32-readDHT11-CONNECT-ESP32-WIFI-PlatformIO
